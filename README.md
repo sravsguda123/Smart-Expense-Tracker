@@ -2,6 +2,10 @@
 
 A modern, user-friendly Python desktop application to track your daily expenses, manage your incomes/salaries, and gain visual insights into your spending habits. Built using Python's Tkinter library, it features a clean graphical user interface and persists your data locally.
 
+## Demo Video
+
+[Watch the Smart Expense Tracker Demo](https://drive.google.com/file/d/1waBgoWXFj_zObWG0d0ZPSs9a9USTvpLI/view?usp=sharing)
+
 ## Features
 
 - **Dashboard Insights**: View your total spent, number of transactions, top category, total income, and net savings at a glance.
